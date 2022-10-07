@@ -1,0 +1,17 @@
+body{
+    background-image: url("images/bg1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.navbar-class{
+    background-color: rgb(185, 232, 242);
+}
+
+.coltextleft{ text-align: left;}
+
+.coltextright{ text-align: right;}
+
+/* rgb(255,245,203) */
